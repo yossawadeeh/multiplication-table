@@ -26,9 +26,3 @@ function loopNumber() {
 }
 
 buttonRun.addEventListener('click', loopNumber);
-
-
-////////////////////////////////////////////////////////////////////////
-
-let love = ['pong', 'pong', 'pong'];
-console.log(love);
